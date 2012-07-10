@@ -1,0 +1,48 @@
+	
+#tf-tabs { margin: 0 0 20px; }
+
+ul.tf-tabs-nav {
+	list-style: none !important;
+	float: left;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 0 !important;
+	padding: 0;
+}
+
+
+ul.tf-tabs-nav li {
+	float: left;
+}
+
+
+.tf-tabs-nav li a {
+	width: 100px;
+	display: block;
+	background-color: #f4f7f9;
+	color: #2f395c;
+	text-decoration: none;
+	padding: 5px 0 6px 0;
+}
+
+.tf-tabs-nav li a.selected,
+.tf-tabs-nav li a:hover {
+		background-color: #e1e7f3;
+}
+
+#tf-tabs > div {
+	background-color: #e1e7f3;
+	padding: 34px 5px 10px 5px;
+	min-height: 380px;
+}
+
+.twit-img { margin-right: 10px;}
+
+#Twitter_tab a p{ line-height: 1.4em; color: #2f395c; font-size: 11px; }
+.pull-left {
+  float: left;
+}
+
+	
+	
+	
